@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ZIED_NASRI_3CX_TEST"
